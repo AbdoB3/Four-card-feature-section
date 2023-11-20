@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.23237cd3.css",
-    "main.js": "/static/js/main.86769b4d.js",
-    "index.html": "/index.html",
-    "main.23237cd3.css.map": "/static/css/main.23237cd3.css.map",
-    "main.86769b4d.js.map": "/static/js/main.86769b4d.js.map"
+    "main.css": "/Four-card-feature-section/static/css/main.23237cd3.css",
+    "main.js": "/Four-card-feature-section/static/js/main.86769b4d.js",
+    "index.html": "/Four-card-feature-section/index.html",
+    "main.23237cd3.css.map": "/Four-card-feature-section/static/css/main.23237cd3.css.map",
+    "main.86769b4d.js.map": "/Four-card-feature-section/static/js/main.86769b4d.js.map"
   },
   "entrypoints": [
     "static/css/main.23237cd3.css",
