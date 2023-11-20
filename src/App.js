@@ -3,9 +3,9 @@ function App() {
   return (
     <div className="App bg-gray-50">
     <div className=" text-center">
-      <h1 className="pt-14 text-4xl mb-2 font-thin text-gray-600 ">Reliable, efficient delivery</h1>
+      <h1 className="pt-20 text-4xl mb-3 font-thin text-gray-600 ">Reliable, efficient delivery</h1>
       <h1 className="font-semibold text-3xl text-gray-600">Powred by Abderrahmane BIHI</h1>
-      <p className="mt-5 mb-10 text-sm  text-gray-400">Our Artificial Intelligence powred by toolsuse millions of project data <br/> point to ensure that your project is successful</p>
+      <p className="mt-5 mb-14 text-sm  text-gray-400">Our Artificial Intelligence powred by toolsuse millions of project data <br/> point to ensure that your project is successful</p>
     </div>
     <div className=" container ">
       <div className=" card-group grid grid-rows-4 grid-cols-1 lg:grid-cols-3 gap-7 pb-16">
